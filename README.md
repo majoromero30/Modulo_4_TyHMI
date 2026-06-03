@@ -1,1 +1,3 @@
 # Modulo_4_TyHMI
+
+El Módulo 4 consolida herramientas técnicas fundamentales para la futura profesión en la ingeniería industrial, fusionando el análisis de datos con la comunicación académica. El núcleo del trabajo consistió en estructurar un artículo científico sobre un sector productivo, utilizando archivos JSON para extraer, leer y manipular datos estructurados de manera eficiente dentro del entorno de R. Este rigor analítico se complementó con la publicación a través de la plantilla Distill de R Markdown, la cual permite entrelazar armónicamente el texto narrativo, la ejecución de código y la gestión de citas bibliográficas para generar un documento final responsivo, reproducible y con un estándar visual impecable.
